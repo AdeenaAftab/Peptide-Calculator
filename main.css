@@ -41,17 +41,17 @@ h1 {
 }
 
 .buttons button {
-    background-color: royalblue; /* Changed to royal blue */
+    background-color: rgb(201, 198, 29); /* Changed to royal blue */
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
     cursor: pointer;
     font-size: 14px;
-    color: white; /* Ensure text color is white for better contrast */
+    color: rgb(0, 0, 0); /* Ensure text color is white for better contrast */
 }
 
 .buttons button.selected {
-    background-color: darkblue; /* Darker shade of royal blue for selected button */
+    background-color: rgb(84, 85, 81); /* Darker shade of royal blue for selected button */
     color: white;
 }
 
